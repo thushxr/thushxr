@@ -5,7 +5,7 @@ I'm a passionate software engineer specializing in Java and .NET technologies. I
 - 🔭 Currently working on full-stack web applications
 - 🌱 Exploring advanced backend architectures and cloud integrations
 - 💬 Ask me about Java, Spring Boot, .NET, and full-stack development
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thusharp)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thushxr)
 - 📍 Based in Mangalore, India
 
 ## 🛠️ Technical Skills
