@@ -22,7 +22,3 @@ I focus on building **clean, scalable APIs** with strong domain boundaries and m
 <p>
   <img src="https://skillicons.dev/icons?i=java,cs,dotnet,spring,mysql,aws,git,grafana,html,css,js,idea,ai,ps,postman,postgres,redis,rider,figma" />
 </p>
-
----
-
-I enjoy working on backend systems that are **simple, correct, and easy to evolve**.
