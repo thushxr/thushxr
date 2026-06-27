@@ -8,8 +8,6 @@ Backend Software Engineer | Open Source
 
 </div>
 
----
-
 ## About
 
 Backend software engineer focused on building scalable APIs, cloud-native applications, and developer tooling using .NET and AWS. Interested in distributed systems, system design, and open-source software.
